@@ -1,0 +1,1 @@
+ZoidMessageComponent({}).render('#container');

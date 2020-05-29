@@ -1,0 +1,1 @@
+Contains projects used to learn and test functionality in new frameworks and languages
